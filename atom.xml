@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-09T08:13:04.480Z</updated>
+  <updated>2021-01-09T10:19:22.113Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>About Me</title>
+    <link href="http://example.com/2021/01/09/About-Me/"/>
+    <id>http://example.com/2021/01/09/About-Me/</id>
+    <published>2021-01-09T09:08:03.000Z</published>
+    <updated>2021-01-09T10:19:22.113Z</updated>
+    
+    <content type="html"><![CDATA[<p><a style="color:gray">a student ，live in Wuhan, China.</a><br><br>姓名：李林<br>现居：阜阳<br>GitHub：<a href="https://github.com/xperiacop">xperiacop</a><br>QQ：<a href="#">1458270698</a><br>微信：Xperiacop</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a style=&quot;color:gray&quot;&gt;a student ，live in Wuhan, China.&lt;/a&gt;&lt;br&gt;&lt;br&gt;姓名：李林&lt;br&gt;现居：阜阳&lt;br&gt;GitHub：&lt;a href=&quot;https://github.com/xperiacop&quot;&gt;xperiac</summary>
+      
+    
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
     <title>健身日常</title>
     <link href="http://example.com/2021/01/09/%E5%81%A5%E8%BA%AB%E6%97%A5%E5%B8%B8/"/>
     <id>http://example.com/2021/01/09/%E5%81%A5%E8%BA%AB%E6%97%A5%E5%B8%B8/</id>
     <published>2021-01-09T07:04:14.000Z</published>
-    <updated>2021-01-09T08:13:04.480Z</updated>
+    <updated>2021-01-09T09:10:25.279Z</updated>
     
     <content type="html"><![CDATA[<p>撸铁日常<br>练了这么久，还是可以看到一些训练痕迹的，哈哈哈~~~<br><br><img src="/2021/01/09/%E5%81%A5%E8%BA%AB%E6%97%A5%E5%B8%B8/101.jpg" alt="101"><br>图（一）<br><br>生活原本沉闷，但跑起来就有风<br><br><img src="/2021/01/09/%E5%81%A5%E8%BA%AB%E6%97%A5%E5%B8%B8/102.jpg" alt="101"><br>图（二）</p>]]></content>
     
@@ -33,6 +55,8 @@
     
     
     
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
