@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-17T08:22:45.690Z</updated>
+  <updated>2021-01-09T07:40:36.243Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>健身日常</title>
+    <link href="http://example.com/2021/01/09/%E5%81%A5%E8%BA%AB%E6%97%A5%E5%B8%B8/"/>
+    <id>http://example.com/2021/01/09/%E5%81%A5%E8%BA%AB%E6%97%A5%E5%B8%B8/</id>
+    <published>2021-01-09T07:04:14.000Z</published>
+    <updated>2021-01-09T07:40:36.243Z</updated>
+    
+    <content type="html"><![CDATA[<p>撸铁日常<br>练了这么久，还是可以看到一些训练痕迹的，哈哈哈~~~<br><img src="/2021/01/09/%E5%81%A5%E8%BA%AB%E6%97%A5%E5%B8%B8/101.jpg" alt="101"><br>图（一）<br><img src="/2021/01/09/%E5%81%A5%E8%BA%AB%E6%97%A5%E5%B8%B8/102.jpg" alt="101"><br>图（二）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;撸铁日常&lt;br&gt;练了这么久，还是可以看到一些训练痕迹的，哈哈哈~~~&lt;br&gt;&lt;img src=&quot;/2021/01/09/%E5%81%A5%E8%BA%AB%E6%97%A5%E5%B8%B8/101.jpg&quot; alt=&quot;101&quot;&gt;&lt;br&gt;图（一）&lt;br&gt;&lt;img src=</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
